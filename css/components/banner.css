@@ -1,0 +1,19 @@
+.banner {
+  padding: 120px;
+  color: white;
+  margin-bottom: 24px;
+}
+
+.banner h1, .banner p  {
+  text-shadow: 0 0 8px rgb(0,0,0,0.8);
+  margin: 0;
+}
+
+
+.banner p  {
+  margin-bottom: 16px;
+}
+
+.banner-content {
+  display: flex;
+}
